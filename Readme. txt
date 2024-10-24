@@ -1,0 +1,5 @@
+The data contains the sampling data from 22 participants. Each folder contains the data from eight trials. 
+The sub-folders that start with P1 means the Phase-1 data where participants not wearing the haptic vest and facilitied with EMG. 
+The sub-folders that start with P2 means the Phase-2 data where participants not using the EMG but wearing the haptic vest.
+The xx_xx_experiment_main_xx.txt is the event log including 1) the start time, 2) the alert time, 3) the attack finish time, 4) the relevent distance of the adversarial agents to the ego vehicle, and the ID of the initiated adversarial agents.
+The xx_xx_experiment_visual_xx.txt is the time log carrying the participants' decision-making time. 
