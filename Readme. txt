@@ -1,11 +1,10 @@
-This project was funded by the Royal Society Research Grant under RGS\R1\230137
+This project was funded by the Royal Society Research Grant under RGS\R1\2301373.
+
+This repository is currently in progress and the dataset paper will be available by end of 2024. For quick access, you can follow the instructions in the data folder.
 
 The dataset consists of sampling data from 22 participants, with each folder containing data from eight trials.
-
 Sub-folders that begin with "P1" represent Phase 1, where participants wore an EMG device but did not wear the haptic vest. Sub-folders starting with "P2" represent Phase 2, where participants wore the haptic vest but did not use the EMG device.
-
 The files named xx_xx_experiment_main_xx.txt contain event logs that include the following:
-
 Start time,
 Alert time,
 Attack completion time,
