@@ -1,3 +1,5 @@
+This project was funded by the Royal Society Research Grant under RGS\R1\230137
+
 The dataset consists of sampling data from 22 participants, with each folder containing data from eight trials.
 
 Sub-folders that begin with "P1" represent Phase 1, where participants wore an EMG device but did not wear the haptic vest. Sub-folders starting with "P2" represent Phase 2, where participants wore the haptic vest but did not use the EMG device.
